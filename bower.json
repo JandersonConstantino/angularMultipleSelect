@@ -1,5 +1,5 @@
 {
-  "name": "angularMultipleSelect",
+  "name": "angularMultipleSelectPv",
   "version": "pv",
   "main": [
     "build/multiple-select.min.js",
